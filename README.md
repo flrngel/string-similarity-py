@@ -4,4 +4,4 @@ Finds degree of similarity between two strings, based on Dice's Coefficient, whi
 
 ## Notes
 
-Simple python code originally from [aceakash/string-similarity](https://github.com/aceakash/string-similarity)
+Simple python implementation of Dice Coefficient, code is originally from [aceakash/string-similarity](https://github.com/aceakash/string-similarity)
